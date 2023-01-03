@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "65xx")(type "KiCad")(uri "C:/dev/6502-kicad-library/65xx.kicad_sym")(options "")(descr ""))
+  (lib (name "local_lib")(type "KiCad")(uri "C:/dev/6502-kicad-library/local_lib.kicad_sym")(options "")(descr ""))
+)
